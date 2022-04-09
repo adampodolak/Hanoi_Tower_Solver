@@ -5,7 +5,7 @@ This is a program I wrote in C to solve the famous Tower of Hanoi problem using 
 <br />
 The user can select how many rings to start with and the program will visually simulate the solution.
 <br />
-A gcc compile is required to run the program.
+A gcc compiler is required to run the program.
 <br />
 Type: 
 `gcc -o hantow hantow.c`
