@@ -7,7 +7,7 @@ The user can select how many rings to start with and the program will visually s
 <br />
 A gcc compiler is required to run the program.
 <br />
-Type: 
+Type 
 `gcc -o hantow hantow.c`
 In the project directory terminal
 <br>
